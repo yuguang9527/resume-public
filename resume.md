@@ -21,9 +21,8 @@
 
 **Stanford University (Susan Athey's Lab)**
 *Research Engineer*
-- Designed and built large-scale agent-based simulation environments to study causal inference in market settings, enabling rigorous counterfactual analysis of pricing and allocation mechanisms.
-- Implemented synthetic data generation pipelines to produce realistic market interaction datasets, supporting the validation of novel econometric estimators under varying assumptions of unconfoundedness.
-- Collaborated with economists to translate theoretical market mechanism designs (e.g., auction formats, dynamic pricing rules) into executable computational models, accelerating the research-to-insight cycle.
+- Designed and built the infrastructure for content synthesis and experimental data processing in algorithmic personalization research on an educational technology platform. Integrated real platform data to support experiment design and system implementation.
+- Collaborated with economists to translate personalization mechanisms in educational platforms into executable experimental and analytical workflows, supporting empirical validation and related publication efforts.
 
 **Stanford University**
 *Graduate Researcher (Advised by Prof. Shuran Song)*
