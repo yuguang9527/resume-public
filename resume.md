@@ -8,12 +8,13 @@
 *Master of Science* — *2025*
 - **Focus:** Generative Models, Embodied AI, Cryptography.
 - **Fellowships:**
-  - **MAC3 Graduate Fellowship** (2024–2025)
-  - **Geoffrey and Amy Yang Fellowship** (2024–2025)
+  - **MAC3 Graduate Fellowship**
+  - **Geoffrey and Amy Yang Fellowship**
 - **Selected Coursework:** Applied Zero Knowledge Proofs (CS 355), Sensorimotor Learning for Embodied Agents (CS/EE 381), Human-Centered LLMs (CS 329X).
 
 **Osaka University** — *Osaka, Japan*
 *Bachelor of Engineering, Electronic Engineering*
+- **Research:** Computational Chemistry and Atomistic Simulation
 
 ---
 
