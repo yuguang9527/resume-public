@@ -11,11 +11,6 @@
   - **MAC3 Graduate Fellowship**
   - **Geoffrey and Amy Yang Fellowship**
 - **Selected Coursework:** Applied Zero Knowledge Proofs (CS 355), Sensorimotor Learning for Embodied Agents (CS/EE 381), Human-Centered LLMs (CS 329X).
-
-**Osaka University** — *Osaka, Japan*
-*Bachelor of Engineering, Electronic Engineering*
-- **Research:** Computational Chemistry and Atomistic Simulation
-
 ---
 
 ## RESEARCH EXPERIENCE
